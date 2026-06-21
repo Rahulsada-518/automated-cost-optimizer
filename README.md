@@ -3,6 +3,11 @@
 
 This project automatically stops unused running EC2 instances using AWS Lambda and EventBridge to reduce AWS cloud costs.
 
+## Project Flow
+
+<img width="1536" height="1024" alt="Automated Cost Optimizer on AWS" src="https://github.com/user-attachments/assets/7c190e64-53b0-4f1d-abab-5dc3f7295729" />
+
+
 ## Running Instance
 <img width="959" height="378" alt="c2-running" src="https://github.com/user-attachments/assets/cadd6489-c337-4260-9506-9994d9f70a87" />
 
